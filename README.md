@@ -10,7 +10,7 @@ Expected application behaviour :
 
 From input in the console, it will be possible to:
 - Add a book
-- Add an authors
+- Add an author
 - Search for a books' author,
 - Search for book(s) from an author
  
